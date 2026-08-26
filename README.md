@@ -1,30 +1,30 @@
-\# CSC 441 — \[Devon Hurley]
+# CSC 441 — [Devon Hurley]
 
 
 
-\## About me
+## About me
 
-\- \*\*Major: Computer Science\*\*
+- **Major: Computer Science**
 
-\- \*\*Year: senior\*\*
+- **Year: senior**
 
-\- \*\*What I want to build:\*\* ("Android apps / websites")
+- **What I want to build:** ("Android apps / websites")
 
 
 
-\## What I'm hoping to learn this semester
+## What I'm hoping to learn this semester
 
 I am excited to learn some front end development and how to make an Android app.
 
 
 
-\## My setup
+## My setup
 
-\- \*\*Computer:\*\* (Windows)
+- **Computer:** (Windows)
 
-\- \*\*GitHub username: DevonHurley01\*\*
+- **GitHub username: DevonHurley01**
 
-\- \*\*Git installed:\*\* No
+- **Git installed:** No
 
 
 
