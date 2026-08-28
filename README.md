@@ -34,6 +34,11 @@ Things I got stuck on, so I don't get stuck again:
 
 \-Work on learning the commands for the terminal.
 
+- git status
+- git add
+- git commit -m
+- git push
+
 ## Terminal commands I learned
 - pwd
 - ls
