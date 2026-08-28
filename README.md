@@ -34,3 +34,8 @@ Things I got stuck on, so I don't get stuck again:
 
 \-Work on learning the commands for the terminal.
 
+## Terminal commands I learned
+- pwd
+- ls
+- cd
+- mkdir
