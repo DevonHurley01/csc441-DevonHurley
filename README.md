@@ -44,3 +44,8 @@ Things I got stuck on, so I don't get stuck again:
 - ls
 - cd
 - mkdir
+
+## My goals for this course
+- Learn the aspects of GIT
+- Learning a new coding language
+- Build my GitHub account
