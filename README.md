@@ -49,3 +49,9 @@ Things I got stuck on, so I don't get stuck again:
 - Learn the aspects of GIT
 - Learning a new coding language
 - Build my GitHub account
+
+## Tools I have installed
+- [] Git
+- [] IntelliJ IDEA Community Edition
+- [] Android Studio
+- [] VS Code
