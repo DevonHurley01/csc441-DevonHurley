@@ -57,4 +57,4 @@ Things I got stuck on, so I don't get stuck again:
 - [] VS Code
 
 ## Status
-Learning Git and feeling food about it
+Learning Git. Branches make sense now; merge conflict are next.
