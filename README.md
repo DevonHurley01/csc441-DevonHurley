@@ -57,4 +57,4 @@ Things I got stuck on, so I don't get stuck again:
 - [] VS Code
 
 ## Status
-Just getting started
+Working through branches. Slighly confused but getting there.
