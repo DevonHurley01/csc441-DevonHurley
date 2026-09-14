@@ -31,6 +31,7 @@ fun main(){
         "5" -> println("Friday")
         "6" -> println("Saturday")
         "7" -> println("Sunday")
+        else -> println("Not a day in the week")
     }
 
     val budget = 100
